@@ -1,4 +1,4 @@
-* ### [Contributions](#contributions#2)
+* ### [Contributions](#contribution)
   * [New Contributor](#new-contributor)
   * [Get Mentoring Support](#get-mentoring-support)
   * [Report Bugs](#report-bugs)
@@ -52,7 +52,7 @@
 * Resources & Links
 
 [//]: # (## [Contributions]&#40;#•-contributions&#41;)
-## [Contributions](#contribution#1)
+## [Contribution](#contributions)
 
 
 asdasd
