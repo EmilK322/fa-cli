@@ -1,4 +1,4 @@
-* ### [Contributions](#contributions)
+* ### [Contributions](#contributions#2)
   * [New Contributor](#new-contributor)
   * [Get Mentoring Support](#get-mentoring-support)
   * [Report Bugs](#report-bugs)
@@ -52,8 +52,8 @@
 * Resources & Links
 
 [//]: # (## [Contributions]&#40;#•-contributions&#41;)
-## [Contributions](#contributions)
-___
+## [Contributions](#contribution#1)
+
 
 asdasd
 ### New Contributor
@@ -75,5 +75,3 @@ dsfa
 ----
 
 
-tyutyu
-========
